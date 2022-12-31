@@ -1,16 +1,21 @@
 {
-  "name": "newsletter-signup",
-  "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.20.1",
-    "express": "^4.18.2",
-    "request": "^2.88.2"
-  }
+    "name": "Newsletter-signup-page",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+      "build": "echo \"No build specified\" && exit 1",
+        "test": "echo \"No test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Trojjan/Newsletter-signup-page.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Trojjan/Newsletter-signup-page/issues"
+    },
+    "homepage": "https://github.com/Trojjan/Newsletter-signup-page#readme"
 }
+ 
